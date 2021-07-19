@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+header {
+    position: relative;
+    background: black;
+    display: flex;
+    flex-direction: row;
+}
+
+header  img {
+    width: 100%;
+    border-radius: 80px;
+}
+
+header li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+header li img {
+    width: 20px;
+    height: 20px;
+    margin-left: 3%;
+}
+
+header .logo {
+    width: 20%;
+    margin: 1% 1% 1% 5%;
+}
+
+header .barra {
+    display: flex;
+}
+
+main img {
+    width: 80%;
+}
+
+
+footer {
+    color: palevioletred;
+    background: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+footer h2 {
+    margin-top: 4%;
+}
+
+footer img {
+    margin-top: 4%;
+    width: 30px;
+    height: 30px;
+}
