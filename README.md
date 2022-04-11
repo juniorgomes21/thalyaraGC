@@ -1,2 +1,2 @@
-# maelinda
- projeto pequeno para a mãe
+# Thalyara
+ projeto pequeno para thalyara
